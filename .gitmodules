@@ -1,0 +1,6 @@
+[submodule "chameleon-hw"]
+	path = chameleon-hw
+	url = https://github.com/synch-ross/chameleon-hw.git
+[submodule "chameleon-sw"]
+	path = chameleon-sw
+	url = https://github.com/synch-ross/chameleon-sw.git
